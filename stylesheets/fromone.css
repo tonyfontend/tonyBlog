@@ -407,22 +407,22 @@ code {
 }
 /*控制圆圈的背景色*/
 .index-nav-01 {
-  background: #0080FF;
+  background: #05386b;
 }
 .index-nav-02 {
-  background: #f39c12;
+  background: #05386b;
 }
 .index-nav-03 {
-  background: #00DB00;
+  background: #05386b;
 }
 .index-nav-04 {
-  background: #3498db;
+  background: #05386b;
 }
 .index-nav-05 {
-  background: #FF2D2D;
+  background: #05386b;
 }
 .index-nav-06 {
-  background: #AFAF61;
+  background: #05386b;
 }
 .index-area {
   -webkit-transition: 1s;
